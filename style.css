@@ -1,0 +1,19 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 20px;
+    background-color: rgb(27, 27, 27);
+    /* Taustan väri */
+    margin: 0;
+    font-family: 'Candara', Arial, sans-serif;
+    /* Käytetty fontti */
+    color: white;
+    width: 100%;
+    height: 100%;
+    font-size: 1.05em;
+}
+
+/* Käytetään html filessä class="title" ja sen osan teksti muuttuu keltaseks */
+.title {
+    color: yellow;
+
+}
